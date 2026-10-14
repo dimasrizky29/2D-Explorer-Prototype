@@ -1,6 +1,7 @@
 # 2D Explorer Prototype
 
 A top-down 2D pixel-art action-exploration prototype built in Unity. The focus is **combat that feels heavy and alive** (a 5-hit combo, hit stop, directional camera shake, finisher zoom, slow motion) and **enemy AI that attacks in turns**, with a boss that has an ultimate move, all on a clean, testable architecture.
+Mobile and PC Platform
 
 > Unity `6000.3.7f1` · URP 2D · UniTask · VContainer · Input System
 
