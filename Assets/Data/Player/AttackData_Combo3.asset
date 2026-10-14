@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4308b0abe6c4e274288495bc07140c61, type: 3}
+  m_Name: AttackData_Combo3
+  m_EditorClassIdentifier: Assembly-CSharp::AttackData
+  attackIndex: 0
+  damage: 1
+  hitRadius: 1.1
+  hitOffset: 0.95
+  knockback: 6
+  feel:
+    hitStop: 0.08
+    shakeDuration: 0.14
+    shakeMagnitude: 0.12
+    shakeDirectional: 0.8
+    zoomAmount: 0
+    zoomDuration: 0.3
+    slowScale: 1
+    slowDuration: 0
+    sparkCount: 10
+    sparkSize: 1.3
+    knockbackDuration: 0.14
+  windup: 0.15
+  recovery: 0.5
+  targetMask:
+    serializedVersion: 2
+    m_Bits: 128

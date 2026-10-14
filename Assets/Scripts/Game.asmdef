@@ -1,0 +1,22 @@
+{
+    "name": "Game",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "VContainer",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.RenderPipelines.Universal.2D.Runtime",
+        "Joystick"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
