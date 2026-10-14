@@ -71,7 +71,22 @@ Press attack repeatedly with good timing to chain the combo up to the finisher.
 ## Build and Demo
 
 - **Build:** _coming soon_
-- **Demo:** _coming soon_
+- **Demo:** 
+
+
+https://github.com/user-attachments/assets/cf6d800f-f24d-4099-9361-eb053716a6ba
+
+
+
+
+
+https://github.com/user-attachments/assets/cd7cc689-1c9b-45d9-8649-92f661f2dfca
+
+
+
+
+
+
 
 ---
 
